@@ -1,0 +1,7 @@
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\bin\Debug\getJson.dll
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\bin\Debug\getJson.pdb
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\obj\Debug\getJson.csprojResolveAssemblyReference.cache
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\obj\Debug\getJson.dll
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\getJson\obj\Debug\getJson.pdb

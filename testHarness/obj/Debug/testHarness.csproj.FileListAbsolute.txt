@@ -1,0 +1,20 @@
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\testHarness.exe
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\testHarness.pdb
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\getJson.dll
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\getJson.pdb
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\obj\Debug\testHarness.csprojResolveAssemblyReference.cache
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\obj\Debug\testHarness.exe
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\obj\Debug\testHarness.pdb
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\testHarness.exe.config
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patterncoder\Documents\Visual Studio 2013\Projects\getJson\testHarness\bin\Debug\Newtonsoft.Json.xml
+C:\development\jsonDataExtractor\testHarness\bin\Debug\testHarness.exe.config
+C:\development\jsonDataExtractor\testHarness\obj\Debug\testHarness.exe
+C:\development\jsonDataExtractor\testHarness\obj\Debug\testHarness.csprojResolveAssemblyReference.cache
+C:\development\jsonDataExtractor\testHarness\bin\Debug\testHarness.exe
+C:\development\jsonDataExtractor\testHarness\bin\Debug\testHarness.pdb
+C:\development\jsonDataExtractor\testHarness\bin\Debug\getJson.dll
+C:\development\jsonDataExtractor\testHarness\bin\Debug\Newtonsoft.Json.dll
+C:\development\jsonDataExtractor\testHarness\bin\Debug\getJson.pdb
+C:\development\jsonDataExtractor\testHarness\bin\Debug\Newtonsoft.Json.xml
+C:\development\jsonDataExtractor\testHarness\obj\Debug\testHarness.pdb
