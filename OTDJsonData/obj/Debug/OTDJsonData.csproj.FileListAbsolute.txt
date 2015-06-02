@@ -1,0 +1,7 @@
+C:\development\jsonDataExtractor\OTDJsonData\bin\Debug\OTDJsonData.dll
+C:\development\jsonDataExtractor\OTDJsonData\bin\Debug\OTDJsonData.pdb
+C:\development\jsonDataExtractor\OTDJsonData\bin\Debug\Newtonsoft.Json.dll
+C:\development\jsonDataExtractor\OTDJsonData\bin\Debug\Newtonsoft.Json.xml
+C:\development\jsonDataExtractor\OTDJsonData\obj\Debug\OTDJsonData.csprojResolveAssemblyReference.cache
+C:\development\jsonDataExtractor\OTDJsonData\obj\Debug\OTDJsonData.dll
+C:\development\jsonDataExtractor\OTDJsonData\obj\Debug\OTDJsonData.pdb

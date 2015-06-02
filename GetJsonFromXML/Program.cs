@@ -8,6 +8,8 @@ using System.Data;
 using System.Data.SqlClient;
 using Newtonsoft.Json;
 using System.Xml;
+using OTDJsonData;
+
 
 
 
@@ -17,27 +19,19 @@ namespace GetJsonFromXML
     {
         static void Main(string[] args)
         {
-            string _conn = ConfigurationManager.ConnectionStrings["SiteSqlServer"].ConnectionString;
-            string result;
-            string sql = "otd_sp_MenuGetByIDXML";
 
-            using (SqlConnection myConnection = new SqlConnection(_conn))
-            {
-                using (SqlCommand myCommand = new SqlCommand(sql, myConnection))
-                {
-                    myCommand.CommandType = CommandType.StoredProcedure;
-                    myCommand.Parameters.AddWithValue("@MenuID", 596);
-                    myConnection.Open();
-                    XmlReader reader = myCommand.ExecuteXmlReader();
-                    XmlDocument xdoc = new XmlDocument();
-                    xdoc.Load(reader);
-                    
-                    result = JsonConvert.SerializeXmlNode(xdoc);
-                }
-            }
-
-            Console.Write(result);
+            var qryEngine = new QueryEngine();
+            Dictionary<string,string> myParams = new Dictionary<string, string>();
+            myParams.Add("@MenuID", "596");
+            Dictionary<string, string> myParams2 = new Dictionary<string, string>();
+            myParams2.Add("@Date", "20150425");
+            
+            Console.Write(qryEngine.GetData("otd_sp_MenuGetByIDXML", myParams));
+            qryEngine.ClearXDoc();
+            Console.Write(qryEngine.GetData("otd_sp_entertainmentSchedule", myParams2));
             Console.ReadKey();
         }
     }
+
+    
 }

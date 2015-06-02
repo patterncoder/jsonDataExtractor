@@ -6,3 +6,5 @@ C:\development\jsonDataExtractor\GetJsonFromXML\bin\Debug\Newtonsoft.Json.xml
 C:\development\jsonDataExtractor\GetJsonFromXML\obj\Debug\GetJsonFromXML.csprojResolveAssemblyReference.cache
 C:\development\jsonDataExtractor\GetJsonFromXML\obj\Debug\GetJsonFromXML.exe
 C:\development\jsonDataExtractor\GetJsonFromXML\obj\Debug\GetJsonFromXML.pdb
+C:\development\jsonDataExtractor\GetJsonFromXML\bin\Debug\OTDJsonData.dll
+C:\development\jsonDataExtractor\GetJsonFromXML\bin\Debug\OTDJsonData.pdb
